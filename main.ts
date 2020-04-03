@@ -17,3 +17,4 @@ b 5 5 5 5 d d 4 4 4 4 . . . . .
 4 4 4 4 . . . . . . . . . . . . 
 `, SpriteKind.Player)
 controller.moveSprite(mySprite)
+scene.setBackgroundColor(8)
